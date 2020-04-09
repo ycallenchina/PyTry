@@ -7,3 +7,4 @@
 
 import os
 d=os.system('displayswitch /extend')#addnew try
+#newadd2
