@@ -6,4 +6,4 @@
 仅第二屏幕 displayswitch /external'''
 
 import os
-d=os.system('displayswitch /extend')
+d=os.system('displayswitch /extend')#addnew try
