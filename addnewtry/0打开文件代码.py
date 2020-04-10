@@ -7,4 +7,4 @@ print(type(x))
 print(f'start e:/pyNote/{x}.txt')
 os.system(f'start e:/pyNote/调用资料/{x}.txt')
 插入中间字符串写法
-print(f'123{x}68')
+print(f'123{x}68')#try to use github desktop2
